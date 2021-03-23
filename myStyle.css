@@ -1,0 +1,203 @@
+body {
+	 font-family: 'Open Sans', sans-serif;
+	 background: url(images/bg-image.jpg) no-repeat center center fixed;
+	 background-size: cover;
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 
+	}
+#wrapper{
+	width: 980px;
+	background-color: #fff;
+	margin: auto;
+	margin-top: 80px;
+	
+	}
+div.container{
+	width: 980px;
+}
+#bs-example-navbar-collapse-1{
+    width: 980px;	
+    margin-left: -46px;
+	
+}
+#bs-example-navbar-collapse-1 ul {
+	width: 980px;
+	margin-top: -1px;
+}
+#bs-example-navbar-collapse-1 ul li a{
+	width: 245px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 25px 0;
+    font-size: 20px;
+	color: #009900;
+	
+}
+#bs-example-navbar-collapse-1 ul li a:hover{
+	background-color: #0b559e;
+	color: #fff;
+}
+
+
+
+#aboutus{
+    background-color: #fff2cc;
+	margin: -21px -15px 0 -15px;
+	
+}
+#aboutus #aboutusDescription h1{
+	
+	text-align: center;
+	font-weight: 20px;
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 40px 40px;
+	color: #009900;
+	
+}
+#aboutus #aboutusDescription p{
+	text-align: center;
+	margin-top: -20px;
+	padding-bottom: 40px;
+	font-size: 17px;
+	font-weight: bold;
+}
+#services{
+	background-color: white;
+	
+}
+#services h1{
+	text-align:center;
+	text-decoration: underline;
+	font-size: 40px;
+}
+
+
+#customSliderItems{
+	text-align: center;
+}
+
+#customSliderItems img{
+	display: none;
+}
+
+#customSliderItems img.showCustomImageSliderItem{
+	display: inline-block;
+}
+
+#customSlider{
+	position: relative;
+	
+	
+}
+
+#customSliderControls {
+	position: absolute;
+	top: 40%;
+	font-size: 50px;
+	width: 950px;
+	padding: 0 -30px 0 30px;
+}
+
+#customSliderControlsLeftArrow{
+	float: left;
+	cursor: pointer;
+}
+
+#customSliderControlsRightArrow{
+	float: right;
+	cursor: pointer;
+	outline: none;
+}
+#blog h1{ 
+    text-align: center;
+	text-decoration: underline;
+	font-size: 40px;
+}
+	
+#blog{
+	background-color: white;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+#blog h3{
+	width: 320px;
+	margin: 10px 3px;
+	color: #009900;
+	background-color: #fff2cc;
+	padding: 30px 0px;
+	
+}
+#blog p{
+	margin-top: 20px;
+	padding: 0 20px;
+}
+#contact{
+	width: 980px;
+}
+#contact iframe{
+	margin-left: -15px;
+}
+
+#contact h1{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 40px;
+}
+
+
+#contactForm{
+	width: 490px;
+	height: 450px;
+} 
+#contactForm form{
+	margin: 20px;
+}
+ 
+
+
+
+
+
+
+
+#Peticka{
+	padding:30px;
+	margin: -5px -15px 0 -15px;
+	background-color: #000099;	
+	text-align: center;
+	height: 150px;
+	color: white;
+	
+	
+}
+#Peticka p{
+	margin-bottom: 80px;
+	
+	
+}
+#arrowToTop {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  bottom: 20px;
+  right: 100px;
+  
+}
+
+.itemGray{
+	background-color: #ececec;
+}
+.clearFix{
+	clear: both;
+	
+}
+.floatLeft{
+	float: left;
+}
+.floatRight{
+	float: right:
+}
